@@ -1,0 +1,90 @@
+Start writing loggamma,   1.00
+alpha,   0.50
+epsilon, 0.25
+badInstantReward, -0.50
+badTerminalReward, -0.50
+goodInstantReward, 2.00
+goodTerminalReward, 2.00
+
+Round: 0 - 100  win percentage, 22.0
+Round: 100 - 200  win percentage, 23.0
+Round: 200 - 300  win percentage, 29.0
+Round: 300 - 400  win percentage, 41.0
+Round: 400 - 500  win percentage, 36.0
+Round: 500 - 600  win percentage, 35.0
+Round: 600 - 700  win percentage, 35.0
+Round: 700 - 800  win percentage, 28.0
+Round: 800 - 900  win percentage, 34.0
+Round: 900 - 1000  win percentage, 26.0
+Round: 1000 - 1100  win percentage, 28.0
+Round: 1100 - 1200  win percentage, 26.0
+Round: 1200 - 1300  win percentage, 31.0
+Round: 1300 - 1400  win percentage, 32.0
+Round: 1400 - 1500  win percentage, 38.0
+Round: 1500 - 1600  win percentage, 49.0
+Round: 1600 - 1700  win percentage, 32.0
+Round: 1700 - 1800  win percentage, 37.0
+Round: 1800 - 1900  win percentage, 31.0
+Round: 1900 - 2000  win percentage, 29.0
+Round: 2000 - 2100  win percentage, 47.0
+Round: 2100 - 2200  win percentage, 43.0
+Round: 2200 - 2300  win percentage, 48.0
+Round: 2300 - 2400  win percentage, 39.0
+Round: 2400 - 2500  win percentage, 50.0
+Round: 2500 - 2600  win percentage, 44.0
+Round: 2600 - 2700  win percentage, 31.0
+Round: 2700 - 2800  win percentage, 39.0
+Round: 2800 - 2900  win percentage, 31.0
+Round: 2900 - 3000  win percentage, 34.0
+Round: 3000 - 3100  win percentage, 23.0
+Round: 3100 - 3200  win percentage, 34.0
+Round: 3200 - 3300  win percentage, 38.0
+Round: 3300 - 3400  win percentage, 27.0
+Round: 3400 - 3500  win percentage, 28.0
+Round: 3500 - 3600  win percentage, 21.0
+Round: 3600 - 3700  win percentage, 35.0
+Round: 3700 - 3800  win percentage, 25.0
+Round: 3800 - 3900  win percentage, 28.0
+Round: 3900 - 4000  win percentage, 28.0
+Round: 4000 - 4100  win percentage, 37.0
+Round: 4100 - 4200  win percentage, 34.0
+Round: 4200 - 4300  win percentage, 41.0
+Round: 4300 - 4400  win percentage, 31.0
+Round: 4400 - 4500  win percentage, 40.0
+Round: 4500 - 4600  win percentage, 27.0
+Round: 4600 - 4700  win percentage, 41.0
+Round: 4700 - 4800  win percentage, 18.0
+Round: 4800 - 4900  win percentage, 30.0
+Round: 4900 - 5000  win percentage, 34.0
+Round: 5000 - 5100  win percentage, 71.0
+Round: 5100 - 5200  win percentage, 41.0
+Round: 5200 - 5300  win percentage, 46.0
+Round: 5300 - 5400  win percentage, 58.0
+Round: 5400 - 5500  win percentage, 50.0
+Round: 5500 - 5600  win percentage, 47.0
+Round: 5600 - 5700  win percentage, 33.0
+Round: 5700 - 5800  win percentage, 30.0
+Round: 5800 - 5900  win percentage, 41.0
+Round: 5900 - 6000  win percentage, 23.0
+Round: 6000 - 6100  win percentage, 54.0
+Round: 6100 - 6200  win percentage, 28.0
+Round: 6200 - 6300  win percentage, 50.0
+Round: 6300 - 6400  win percentage, 35.0
+Round: 6400 - 6500  win percentage, 42.0
+Round: 6500 - 6600  win percentage, 47.0
+Round: 6600 - 6700  win percentage, 60.0
+Round: 6700 - 6800  win percentage, 55.0
+Round: 6800 - 6900  win percentage, 63.0
+Round: 6900 - 7000  win percentage, 57.0
+Round: 7000 - 7100  win percentage, 69.0
+Round: 7100 - 7200  win percentage, 69.0
+Round: 7200 - 7300  win percentage, 47.0
+Round: 7300 - 7400  win percentage, 50.0
+Round: 7400 - 7500  win percentage, 34.0
+Round: 7500 - 7600  win percentage, 29.0
+Round: 7600 - 7700  win percentage, 47.0
+Round: 7700 - 7800  win percentage, 47.0
+Round: 7800 - 7900  win percentage, 24.0
+Round: 7900 - 8000  win percentage, 42.0
+Round: 8000 - 8100  win percentage, 19.0
+Round: 8100 - 8200
